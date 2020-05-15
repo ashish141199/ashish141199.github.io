@@ -1,0 +1,1192 @@
+{
+   "2_weeks": {
+      "en": "2 weeks",
+      "mr": "२ आठवडे",
+      "hi": "2 सप्ताह"
+   },
+ "fee_details": {
+      "en": "Fee Details",
+      "mr": "फी चे डिटेल्स",
+      "hi": "फी  का विवरण"
+   },
+   "a_module_is_a_folder_containing_video_lectures": {
+      "en": "A module is a folder containing video lectures.",
+      "mr": "मॉड्यूल हे व्हिडिओ व्याख्याने असलेले एक फोल्डर आहे.",
+      "hi": "एक मॉड्यूल एक फ़ोल्डर है जिसमें वीडियो व्याख्यान होते हैं।"
+   },
+   "add_media": {
+      "en": "Add Media",
+      "mr": "मीडिया जोडा",
+      "hi": "मीडिया जोड़ें"
+   },
+   "add_new": {
+      "en": "Add new",
+      "mr": "नवीन जोडा",
+      "hi": "नया जोड़े"
+   },
+   "admin": {
+      "en": "Admin",
+      "mr": "ऐड्मिन",
+      "hi": "ऐड्मिन"
+   },
+   "admin_panel": {
+      "en": "Admin Panel.",
+      "mr": "ऐड्मिन पैनल",
+      "hi": "ऐड्मिन पैनल"
+   },
+   "alerts": {
+      "en": "Alerts",
+      "mr": "चेतावणी",
+      "hi": "चेतावनी"
+   },
+   "all_events": {
+      "en": "All Events",
+      "mr": "सगळे कार्यक्रम",
+      "hi": "सभी कार्यक्रम"
+   },
+   "all_the_posts_which_are_visible_to_everyone_in_your_institution_is_visible_here_": {
+      "en": "All the posts which are visible to everyone in your institution is visible here.",
+      "mr": "आपल्या संस्थेतील प्रत्येकाद्वारे पाहिल्या गेलेल्या सर्व पोस्ट येथे देखील दृश्यमान आहेत",
+      "hi": "आपके संस्थान में सभी को जो भी पोस्ट दिखाई दे रहे हैं वे सभी यहां दिखाई दे रहे हैं।"
+   },
+   "apr": {
+      "en": "Apr",
+      "mr": "एप्रिल",
+      "hi": "अप्रैल"
+   },
+   "april": {
+      "en": "April",
+      "mr": "एप्रिल",
+      "hi": "अप्रैल"
+   },
+   "are_you_sure_you_want_to_delete_this_lecture": {
+      "en": "Are you sure you want to delete this lecture",
+      "mr": "आपल्याला हा लेक्चर डिलीट करायचाय?",
+      "hi": "आपको ये लेक्चर डिलीट करना है?"
+   },
+   "are_you_sure_you_want_to_delete_this_post": {
+      "en": "Are you sure you want to delete this post?",
+      "mr": "आपली खात्री आहे की आपण हे पोस्ट हटवू इच्छिता?",
+      "hi": "क्या आप वाकई इस पोस्ट को हटाना चाहते हैं?"
+   },
+   "ask": {
+      "en": "Ask",
+      "mr": "विचारा",
+      "hi": "पूछें"
+   },
+   "assgin_homework_to_students": {
+      "en": "assgin homework to students",
+      "mr": "विद्यार्थ्यांना गृहपाठ द्या",
+      "hi": "छात्रों को गृहपाठ असाइन करें"
+   },
+   "assign_admin_role_to_user": {
+      "en": "Assign Admin role to user",
+      "mr": "वापरकर्त्यास प्रशासनाची  ऐड्मिन द्या",
+      "hi": "उपयोगकर्ता को ऐड्मिन भूमिका सौंपें"
+   },
+   "assign_homework_to_students": {
+      "en": "Assign homework to students",
+      "mr": "विद्यार्थ्यांना गृहपाठ द्या",
+      "hi": "छात्रों को होमवर्क सौंपें"
+   },
+   "assigned_teacher": {
+      "en": "Assigned Teacher",
+      "mr": "नियुक्त शिक्षक",
+      "hi": "शिक्षक को सौंपा"
+   },
+   "aug": {
+      "en": "Aug",
+      "mr": "ऑगस्ट",
+      "hi": "अगस्त"
+   },
+   "august": {
+      "en": "August",
+      "mr": "ऑगस्ट",
+      "hi": "अगस्त"
+   },
+   "batch": {
+      "en": "Batch",
+      "mr": "बैच",
+      "hi": "बैच"
+   },
+   "board": {
+      "en": "Board",
+      "mr": "बोर्ड",
+      "hi": "बोर्ड"
+   },
+   "break": {
+      "en": "Break!",
+      "mr": "मधली सुट्टी",
+      "hi": "ब्रेक"
+   },
+   "bus_location": {
+      "en": "Bus Location",
+      "mr": "बस ची लोकेशन",
+      "hi": "बस की लोकेशन"
+   },
+   "change_language": {
+      "en": "Change Language",
+      "mr": "भाषा बदला",
+      "hi": "भाषा बदलो"
+   },
+   "change_password": {
+      "en": "Change Password",
+      "mr": "पासवर्ड बदला",
+      "hi": "पासवर्ड बदलें"
+   },
+   "chapters": {
+      "en": "Chapters",
+      "mr": "धडे",
+      "hi": "पाठ"
+   },
+   "choose": {
+      "en": "Choose",
+      "mr": "निवडा",
+      "hi": "चुनें"
+   },
+   "choose_a_class_to_assign_the_homework": {
+      "en": "Choose a class to assign the homework",
+      "mr": "गृहपाठ नियुक्त करण्यासाठी वर्ग निवडा",
+      "hi": "आप किस कक्षा को गृहपाठ देना चाहते हो?"
+   },
+   "choose_class": {
+      "en": "Choose class",
+      "mr": "क्लास निवडा",
+      "hi": "क्लास चुने"
+   },
+   "choose_language": {
+      "en": "Choose Language",
+      "mr": "भाषा निवडा",
+      "hi": "भाषा चुनें"
+   },
+   "choose_subject": {
+      "en": "Choose Subject",
+      "mr": "विषय निवडा",
+      "hi": "विषय चुनें"
+   },
+   "choose_submission_date": {
+      "en": "Choose Submission Date",
+      "mr": "सबमिशन तारीख निवडा",
+      "hi": "सबमिशन की तारीख चुनें"
+   },
+   "choose_who_do_you_want_the_post_to_see": {
+      "en": "Choose who do you want the post to see",
+      "mr": "आपण आपली पोस्ट कोणाला दाखवू इच्छिता ते निवडा",
+      "hi": "चुनें कि आप पोस्ट किसे देखना चाहते हैं"
+   },
+   "classroom": {
+      "en": "Classroom",
+      "mr": "वर्ग",
+      "hi": "कक्षा"
+   },
+   "classroom_details": {
+      "en": "Classroom Details",
+      "mr": "वर्गाचे डिटेल",
+      "hi": "वर्ग के डिटेल"
+   },
+   "classrooms": {
+      "en": "Classrooms",
+      "mr": "क्लास",
+      "hi": "क्लास"
+   },
+   "coming_soon_": {
+      "en": "Coming Soon!",
+      "mr": "लवकरच येत आहे",
+      "hi": "जल्द आ रहा है!"
+   },
+   "contact_support": {
+      "en": "Contact Support",
+      "mr": "समर्थन कार्यसंघाशी संपर्क साधा",
+      "hi": "सहयोग टीम से संपर्क करें"
+   },
+   "create": {
+      "en": "Create",
+      "mr": "बनवा",
+      "hi": "बनाएँ"
+   },
+   "create_a_holiday": {
+      "en": "Create a Holiday",
+      "mr": "सुट्ट्या बनवा",
+      "hi": "छुट्टी बनाएँ"
+   },
+   "create_a_post": {
+      "en": "Create a Post",
+      "mr": "पोस्ट बनवा",
+      "hi": "पोस्ट बनाएँ"
+   },
+   "create_an_exam": {
+      "en": "Create an Exam",
+      "mr": "परीक्षा बनवा",
+      "hi": "परीक्षा बनाएँ"
+   },
+   "create_event": {
+      "en": "Create Event",
+      "mr": "कार्यक्रम बनवा",
+      "hi": "कार्यक्रम बनाएँ"
+   },
+   "create_homework": {
+      "en": "Create Homework",
+      "mr": "गृहपाठ बनवा",
+      "hi": "गृहपाठ बनाएं"
+   },
+   "create_video_module": {
+      "en": "Create video module",
+      "mr": "व्हिडियो मॉड्युल बनवा",
+      "hi": "विडियो मॉड्युल बनाए"
+   },
+   "current_password": {
+      "en": "Current Password",
+      "mr": "चालू  पासवर्ड",
+      "hi": "अभी का पासवर्ड"
+   },
+   "date": {
+      "en": "Date ",
+      "mr": "तारीख",
+      "hi": "तारीख"
+   },
+   "dec": {
+      "en": "Dec",
+      "mr": "डिसें",
+      "hi": "दिसंबर"
+   },
+   "december": {
+      "en": "December",
+      "mr": "डिसेंबर",
+      "hi": "दिसंबर"
+   },
+   "delete": {
+      "en": "Delete",
+      "mr": "डिलीट",
+      "hi": "डिलीट"
+   },
+   "delete_lecture": {
+      "en": "Delete lecture",
+      "mr": "व्याख्यान हटवा",
+      "hi": "व्याख्यान हटाएं"
+   },
+   "delete_user": {
+      "en": "Delete User",
+      "mr": "उपभोक्ता मिटा",
+      "hi": "उपभोक्ता मिटायें"
+   },
+   "department": {
+      "en": "Department",
+      "mr": "विभाग",
+      "hi": "विभाग"
+   },
+   "description": {
+      "en": "Description",
+      "mr": "वर्णन",
+      "hi": "वर्णन"
+   },
+   "division": {
+      "en": "Division",
+      "mr": "डिवीजन",
+      "hi": "डिवीजन"
+   },
+   "division_cannot_be_empty": {
+      "en": "Division cannot be empty",
+      "mr": "डिवीजन मध्ये डिटेल्स भरा",
+      "hi": "डिवीजन में विवरण भरें"
+   },
+   "document": {
+      "en": "Document",
+      "mr": "डॉक्युमेंट",
+      "hi": "डॉक्युमेंट"
+   },
+   "documents": {
+      "en": "Documents",
+      "mr": "डॉक्युमेंट",
+      "hi": "डॉक्युमेंट"
+   },
+   "done": {
+      "en": "Done",
+      "mr": "स्वीकार करा",
+      "hi": "स्वीकार करें"
+   },
+   "downloads": {
+      "en": "Downloads",
+      "mr": "डाउनलोड",
+      "hi": "डाउनलोड"
+   },
+   "due_on": {
+      "en": "Due on",
+      "mr": "कधी द्यायचे",
+      "hi": "कब देना है"
+   },
+   "edit": {
+      "en": "Edit",
+      "mr": "एडिट",
+      "hi": "एडिट"
+   },
+   "edit_details": {
+      "en": "Edit Details",
+      "mr": "तपशील संपादित करा",
+      "hi": "विवरण संपादित करें"
+   },
+   "edit_fee_details": {
+      "en": "Edit Fee Details",
+      "mr": "फी चे डिटेल्स बदला",
+      "hi": "फी  का विवरण बदलें"
+   },
+   "edit_homework": {
+      "en": "Edit Homework",
+      "mr": "गृहपाठ बदला",
+      "hi": "होमवर्क बदलें"
+   },
+   "edit_lecture": {
+      "en": "Edit lecture",
+      "mr": "व्याख्यान संपादित करा",
+      "hi": "व्याख्यान संपादित करें"
+   },
+   "edit_picture": {
+      "en": "Edit Picture",
+      "mr": "चित्र बदला",
+      "hi": "चित्र बदल दें"
+   },
+   "editing_the_fee_details_of_the_student_will_automatically_change_the_balance_amount": {
+      "en": "Editing the fee details of the student will automatically change the balance amount",
+      "mr": "विद्यार्थ्याचे फी डिटेल्स एडिट केल्यावर त्यांचा बॅलन्स पण एडिट होईल",
+      "hi": "छात्र के फी विवरण को संपादित करने के बाद, उनका शेष भी संपादित किया जाएगा "
+   },
+   "end_time": {
+      "en": "End Time",
+      "mr": "संपण्याची  वेळ",
+      "hi": "अंतिम समय"
+   },
+   "enter_the_existing_password_of_your_account": {
+      "en": "Enter the existing password of your account",
+      "mr": "आपला चालू खात्याचा संकेतशब्द प्रविष्ट करा ",
+      "hi": "अपने खाते का मौजूदा पासवर्ड दर्ज करें"
+   },
+   "enter_the_new_password_you_wish_to_set": {
+      "en": "Enter the new password you wish to set",
+      "mr": "आपण सेट करू इच्छित नवीन पासवर्ड प्रविष्ट करा",
+      "hi": "नया पासवर्ड दर्ज करें जिसे आप सेट करना चाहते हैं"
+   },
+   "events": {
+      "en": "Events",
+      "mr": "कार्यक्रम",
+      "hi": "आयोजन"
+   },
+   "exam_type": {
+      "en": "Exam Type",
+      "mr": "परीक्षेचा प्रकार",
+      "hi": "परीक्षा का प्रकार"
+   },
+   "exams": {
+      "en": "Exams",
+      "mr": "परीक्षा",
+      "hi": "परीक्षा"
+   },
+   "faculty": {
+      "en": "Faculty",
+      "mr": "शिक्षक",
+      "hi": "शिक्षक"
+   },
+   "faculty_details": {
+      "en": "Faculty Details",
+      "mr": "विद्याशाखा तपशील",
+      "hi": "संकाय विवरण"
+   },
+   "feb": {
+      "en": "Feb",
+      "mr": "फेब्रु",
+      "hi": "फ़र"
+   },
+   "february": {
+      "en": "February",
+      "mr": "फेब्रुवारी",
+      "hi": "फ़रवरी"
+   },
+   "feedback": {
+      "en": "Feedback",
+      "mr": "फिडबॅक",
+      "hi": "फिडबैक"
+   },
+   "fees": {
+      "en": "Fees",
+      "mr": "फी",
+      "hi": "फीस"
+   },
+   "filter_alphabetically": {
+      "en": "Filter alphabetically",
+      "mr": "नावानुसार फिल्टर करा",
+      "hi": "नाम से फ़िल्टर करें"
+   },
+   "filter_by_due_date": {
+      "en": "Filter by due date",
+      "mr": "तारखेनुसार फिल्टर करा",
+      "hi": "तिथि के अनुसार फ़िल्टर करें"
+   },
+   "for_you": {
+      "en": "For you ",
+      "mr": "आपल्या साठी",
+      "hi": "तुम्हारे लिए"
+   },
+   "fri": {
+      "en": "Fri",
+      "mr": "शुक्र",
+      "hi": "शुक्र"
+   },
+   "friday": {
+      "en": "Friday",
+      "mr": "शुक्रवार",
+      "hi": "शुक्रवार"
+   },
+   "full_name": {
+      "en": "Full name ",
+      "mr": "पूर्ण नाव",
+      "hi": "पूरा नाम"
+   },
+   "gallery": {
+      "en": "Gallery",
+      "mr": "गॅलरी",
+      "hi": "गैलरी"
+   },
+   "group": {
+      "en": "Group ",
+      "mr": "ग्रूप",
+      "hi": "ग्रूप"
+   },
+   "hello": {
+      "en": "Hello",
+      "mr": "नमस्ते",
+      "hi": "नमस्ते"
+   },
+   "holidays": {
+      "en": "Holidays",
+      "mr": "सुट्टया",
+      "hi": "छुट्टियां"
+   },
+   "home": {
+      "en": "Home",
+      "mr": "मुख्य पेज",
+      "hi": "मुख्य पेज"
+   },
+   "homework": {
+      "en": "Homework",
+      "mr": "गृहपाठ",
+      "hi": "गृहपाठ"
+   },
+   "images": {
+      "en": "Images",
+      "mr": "इमेज",
+      "hi": "इमेज"
+   },
+   "individual": {
+      "en": "Individual",
+      "mr": "व्यक्ति",
+      "hi": "व्यक्ति"
+   },
+   "jan": {
+      "en": "Jan",
+      "mr": "जाने",
+      "hi": "जन"
+   },
+   "january": {
+      "en": "January",
+      "mr": "जानेवारी",
+      "hi": "जनवरी"
+   },
+   "jul": {
+      "en": "Jul",
+      "mr": "जुलै",
+      "hi": "जुलाई"
+   },
+   "july": {
+      "en": "July",
+      "mr": "जुलै",
+      "hi": "जुलाई"
+   },
+   "jun": {
+      "en": "Jun",
+      "mr": "जून",
+      "hi": "जून"
+   },
+   "june": {
+      "en": "June",
+      "mr": "जून",
+      "hi": "जून"
+   },
+   "last_payment_made": {
+      "en": "Last payment made",
+      "mr": "शेवटचे पेमेंट केले आहे",
+      "hi": "अंतिम पेमेंट किया गया"
+   },
+   "lectures": {
+      "en": "Lectures",
+      "mr": "लेक्चर",
+      "hi": "व्याख्यान"
+   },
+   "live_lectures": {
+      "en": "Live lectures",
+      "mr": "लाइव लेक्चर",
+      "hi": "लाइव लेक्चर"
+   },
+   "live_video_lectures": {
+      "en": "Live Video Lectures",
+      "mr": "लाईव विडीयो लेक्चर",
+      "hi": "लाइव वीडियो लेक्चर"
+   },
+   "logout": {
+      "en": "Logout",
+      "mr": "लॉग आउट",
+      "hi": "लॉग आउट"
+   },
+   "magazine": {
+      "en": "Magazine",
+      "mr": "मासिका",
+      "hi": "मासिका"
+   },
+   "make_changes": {
+      "en": "Make Changes",
+      "mr": "बदल करा",
+      "hi": "परिवर्तन करें"
+   },
+   "mar": {
+      "en": "Mar",
+      "mr": "मार्च",
+      "hi": "मार्च"
+   },
+   "march": {
+      "en": "March",
+      "mr": "मार्च",
+      "hi": "मार्च"
+   },
+   "may": {
+      "en": "May",
+      "mr": "मे",
+      "hi": "मई"
+   },
+   "media": {
+      "en": "Media",
+      "mr": "मीडिया",
+      "hi": "मीडिया"
+   },
+   "modules": {
+      "en": "Modules",
+      "mr": "मॉडूल्स",
+      "hi": "मॉडूल्स"
+   },
+   "mon": {
+      "en": "Mon",
+      "mr": "सोम",
+      "hi": "सोम"
+   },
+   "monday": {
+      "en": "Monday",
+      "mr": "सोमवार",
+      "hi": "सोमवार"
+   },
+   "month": {
+      "en": "Month",
+      "mr": "महिना",
+      "hi": " महीना"
+   },
+   "name": {
+      "en": "Name",
+      "mr": "नाव",
+      "hi": "नाम"
+   },
+   "new_password": {
+      "en": "New Password",
+      "mr": "नवीन पासवर्ड",
+      "hi": "नया पासवर्ड"
+   },
+   "new_transaction": {
+      "en": "New transaction",
+      "mr": "नवीन व्यवहार",
+      "hi": "नयी लेन-देन"
+   },
+   "next_exam": {
+      "en": "Next Exam",
+      "mr": "पुढील परीक्षा",
+      "hi": "अगली परीक्षा"
+   },
+   "next_payment_due_on": {
+      "en": "Next payment due on",
+      "mr": "पुढील पेमेंट तारीख",
+      "hi": "अगली पेमेंट तारीख"
+   },
+   "no": {
+      "en": "No",
+      "mr": "नाही",
+      "hi": "नही"
+   },
+   "no_details_available": {
+      "en": "No details available.",
+      "mr": "कोणतेही वर्णन उपलब्ध नाही",
+      "hi": "कोई विवरण उपलब्ध नहीं है।"
+   },
+   "no_feedback_posted": {
+      "en": "No Feedback Posted",
+      "mr": "कोणी फीडबॅक पोस्ट केले नाहीत",
+      "hi": "कोई प्रतिक्रिया नहीं पोस्ट की गई"
+   },
+   "no_holidays_found": {
+      "en": "No Holidays Found",
+      "mr": "सुट्ट्या नाही आहेत",
+      "hi": "कोई छुट्टियाँ नहीं"
+   },
+   "no_homework": {
+      "en": "No Homework!",
+      "mr": "गृहपाठ नाही आहे",
+      "hi": "गृहपाठ नही है"
+   },
+   "no_lectures_found": {
+      "en": "No lectures found",
+      "mr": "लेक्चर नाही सापडले",
+      "hi": "कोई व्याख्यान नहीं मिला"
+   },
+   "no_modules_uploaded": {
+      "en": "No modules uploaded!",
+      "mr": "मॉड्यूल अपलोड केलेले नाही!+",
+      "hi": "कोई मॉड्यूल अपलोड नहीं किया गया!"
+   },
+   "no_modules_uploaded_": {
+      "en": "No modules uploaded!",
+      "mr": "मॉडूल्स नाही आहेत!",
+      "hi": "कोई मॉड्यूल नहीं हैं!"
+   },
+   "no_subjects_added": {
+      "en": "No Subjects Added",
+      "mr": "विषय जोडले नाहीत",
+      "hi": " कोई विषय नहीं जोड़ा गया"
+   },
+   "no_subjects_assigned": {
+      "en": "No Subjects Assigned",
+      "mr": "कोणताही विषय नियुक्त केलेला नाही",
+      "hi": "कोई विषय नहीं सौंपा"
+   },
+   "no_subjects_found": {
+      "en": "No Subjects Found!",
+      "mr": "कोणतेही विषय सापडले नाहीत!",
+      "hi": "कोई विषय नहीं मिला!"
+   },
+   "no_transactions_made": {
+      "en": "No transactions made",
+      "mr": "पेमेंट नाही झाले आहे",
+      "hi": "कोई  पेमेंट नहीं किया गया"
+   },
+   "no_users_found": {
+      "en": "No users found",
+      "mr": "कोणतेही विद्यार्थी आढळले नाहीत",
+      "hi": "कोई विद्यार्थी नहीं मिला"
+   },
+   "note_this_does_not_translate_user_generated_content": {
+      "en": "Note: This does not translate user generated or dynamic content.",
+      "mr": "हे वापरकर्त्याने व्युत्पन्न केलेल्या सामग्रीचे भाषांतर करीत नाही",
+      "hi": "यह उपयोगकर्ता द्वारा निर्मित सामग्री का अनुवाद नहीं करता है"
+   },
+   "notice": {
+      "en": "Notice Board",
+      "mr": " सूचना",
+      "hi": " सूचना"
+   },
+   "notice_section": {
+      "en": "Notice Section",
+      "mr": "सूचना विभाग",
+      "hi": "सूचना विभाग"
+   },
+   "nov": {
+      "en": "Nov",
+      "mr": "नोव्हें",
+      "hi": "नवंबर"
+   },
+   "november": {
+      "en": "November",
+      "mr": "नोव्हेंबर",
+      "hi": "नवंबर"
+   },
+   "oct": {
+      "en": "Oct",
+      "mr": "ऑक्टो",
+      "hi": "अक्टू"
+   },
+   "october": {
+      "en": "October",
+      "mr": "ऑक्टोबर",
+      "hi": "अक्टूबर"
+   },
+   "ongoing_live_lectures": {
+      "en": "Ongoing live lectures",
+      "mr": "चालू लाइव्ह लेक्चर्स",
+      "hi": "चालू लाइव्ह लेक्चर्स"
+   },
+   "only_admin_can_create_post": {
+      "en": "Only admin can create post",
+      "mr": "फक्त ऍडमिन ही पाहू शकतात",
+      "hi": "केवल एडमिन ही देख सकता है"
+   },
+   "open": {
+      "en": "Open",
+      "mr": "खोला",
+      "hi": "खोलें"
+   },
+   "options": {
+      "en": "Options",
+      "mr": "पर्याय",
+      "hi": "विकल्प"
+   },
+   "organise_and_manage_events_in_your_institution": {
+      "en": "Organise and manage events in your Institution!",
+      "mr": "आपल्या संस्थेतील कार्यक्रम बनवा व व्यवस्थापन करा",
+      "hi": "अपने संस्थान में कार्यक्रम को व्यवस्थित और प्रबंधित करें!"
+   },
+   "payment_details": {
+      "en": "Payment Details",
+      "mr": "पेमेंट्स तपशील",
+      "hi": "भुगतान विवरण"
+   },
+   "payment_history": {
+      "en": "Payment History",
+      "mr": "आतापर्यंत केलेले पेमेंट्स",
+      "hi": "अब तक किए गए भुगतान"
+   },
+   "pending": {
+      "en": "Pending",
+      "mr": "अपूर्ण",
+      "hi": "अपूर्ण"
+   },
+   "phone": {
+      "en": "Phone",
+      "mr": " फ़ोन नंबर",
+      "hi": "फ़ोन नंबर"
+   },
+   "please_contact_admin": {
+      "en": "Please contact admin.",
+      "mr": "कृपया प्रशासकाशी संपर्क साधा",
+      "hi": "कृपया व्यवस्थापक से संपर्क करें"
+   },
+   "post_new": {
+      "en": "Post New",
+      "mr": "नवीन पोस्ट करा",
+      "hi": "नई पोस्ट करें"
+   },
+   "post_video": {
+      "en": "Post video",
+      "mr": "व्हिडियो पोस्ट करा",
+      "hi": "विडियो पोस्ट करें"
+   },
+   "profile": {
+      "en": "Profile",
+      "mr": "प्रोफाइल",
+      "hi": "प्रोफ़ाइल"
+   },
+   "records": {
+      "en": "Records",
+      "mr": "रेकॉर्ड",
+      "hi": "रेकॉर्ड"
+   },
+   "restart_the_app_to_see_changes_": {
+      "en": "Restart the app to see changes.",
+      "mr": "बदल पाहण्यासाठी अँप ला रिस्टार्ट करा",
+      "hi": " परिवर्तन देखने के लिए एप्लिकेशन को पुनरारंभ करें।"
+   },
+   "retry": {
+      "en": "Retry",
+      "mr": "पुन्हा प्रयत्न करा",
+      "hi": "पुन: प्रयास करें"
+   },
+   "retype_new_password": {
+      "en": "Retype new password",
+      "mr": "नवीन पासवर्ड परत लिहा",
+      "hi": "नया पासवर्ड वापस लिखें"
+   },
+   "retype_new_password_to_verify": {
+      "en": "Retype new password to verify",
+      "mr": "फायनल करण्यासाठी नवीन पासवर्ड परत लिहा",
+      "hi": "फायनल करने के लिए नया पासवर्ड वापस लिखें"
+   },
+   "revisit_the_pages_to_rewatch_the_tutorial": {
+      "en": "Revisit the pages to rewatch the Tutorial",
+      "mr": "ट्युटोरिअल ला परत पाहायला पेज वर परत जा",
+      "hi": "ट्यूटोरियल को रिवाइव करने के लिए पृष्ठों को फिर से देखें"
+   },
+   "rewatch_tutorial": {
+      "en": "Rewatch Tutorial",
+      "mr": "ट्यूटोरियल परत बघा",
+      "hi": " फिर से ट्यूटोरियल देखिए"
+   },
+   "roles": {
+      "en": "Roles",
+      "mr": "भूमिका",
+      "hi": "भूमिका"
+   },
+   "sat": {
+      "en": "Sat",
+      "mr": "शनि",
+      "hi": "शनि"
+   },
+   "saturday": {
+      "en": "Saturday",
+      "mr": "शनिवार",
+      "hi": "शनिवार"
+   },
+   "school": {
+      "en": "School",
+      "mr": "शाळा",
+      "hi": "स्कूल"
+   },
+   "search": {
+      "en": "Search",
+      "mr": "शोध",
+      "hi": "खोजिए"
+   },
+   "search_by_name_phone_number": {
+      "en": "Search by name, phone number",
+      "mr": "नावाने  किंवा  फोन नंबर शोधा",
+      "hi": "नाम या फोन नंबर से खोजें"
+   },
+   "search_lectures_": {
+      "en": "Search Lectures...",
+      "mr": "लेक्चर शोधा",
+      "hi": "व्याख्यान खोज"
+   },
+   "search_students": {
+      "en": "Search Students",
+      "mr": "विद्यार्थ्यांना शोधा",
+      "hi": "विद्यार्थीयों को ढूंढें"
+   },
+   "select_division": {
+      "en": "Select Division",
+      "mr": "डिवीजन निवडा",
+      "hi": "विभाजन का चयन करें"
+   },
+   "select_standard": {
+      "en": "Select Standard",
+      "mr": "वर्ग निवडा",
+      "hi": "मानक का चयन करें"
+   },
+   "select_target": {
+      "en": "Select Target",
+      "mr": "उपाय निवडा",
+      "hi": "उपाय चुनें"
+   },
+   "sep": {
+      "en": "Sep",
+      "mr": "सप्टेंबर",
+      "hi": "सितंबर"
+   },
+   "september": {
+      "en": "September",
+      "mr": "सप्टेंबर",
+      "hi": "सितंबर"
+   },
+   "staff_details": {
+      "en": "Staff Details",
+      "mr": "शिक्षकांचे डिटेल",
+      "hi": "शिक्षक के डिटेल"
+   },
+   "staff_members": {
+      "en": "Staff members",
+      "mr": "शिक्षक",
+      "hi": "शिक्षक"
+   },
+   "standard": {
+      "en": "Standard",
+      "mr": "वर्ग",
+      "hi": "कक्षा"
+   },
+   "standard_cannot_be_empty": {
+      "en": "Standard cannot be empty",
+      "mr": "कक्षेत डिटेल्स भरा",
+      "hi": "सेल में विवरण भरें"
+   },
+   "start_date_time": {
+      "en": "Start Date Time",
+      "mr": "सुरु होण्याची तारीख",
+      "hi": "प्रारंभ का समय"
+   },
+   "start_time": {
+      "en": "Start Time",
+      "mr": "सुरु होण्याची वेळ",
+      "hi": "समय शुरू"
+   },
+   "student": {
+      "en": "Student",
+      "mr": "विद्यार्थी",
+      "hi": "छात्र"
+   },
+   "student_details": {
+      "en": "Student Details",
+      "mr": "विद्यार्थ्यांचे डिटेल",
+      "hi": "विद्यार्थी के डिटेल"
+   },
+   "students": {
+      "en": "Students",
+      "mr": "विद्यार्थी",
+      "hi": "छात्र"
+   },
+   "subject": {
+      "en": "Subject",
+      "mr": "विषय",
+      "hi": "विषय"
+   },
+   "subjects": {
+      "en": "Subjects",
+      "mr": "विषय",
+      "hi": "विषय"
+   },
+   "sun": {
+      "en": "Sun",
+      "mr": "रवि",
+      "hi": "रवि"
+   },
+   "sunday": {
+      "en": "Sunday",
+      "mr": "रविवार",
+      "hi": "रविवार"
+   },
+   "tap_here_whenever_you_wish_to_create_a_post_for_students_": {
+      "en": "Tap here whenever you wish to create a post for students.",
+      "mr": "विद्यार्थ्यांसाठी पोस्ट बनवायला इथे क्लिक करा",
+      "hi": "जब भी आप छात्रों के लिए एक पोस्ट बनाना चाहते हैं, तो यहां टैप करें।"
+   },
+   "the_app_tutorial_was_successfully_reset_": {
+      "en": "The App Tutorial was successfully reset.",
+      "mr": "अँप चे ट्युटोरिअल रीसेट झाले",
+      "hi": "ऐप ट्यूटोरियल सफलतापूर्वक रीसेट कर दिया गया था।"
+   },
+   "the_posts_which_are_directly_related_to_you_will_appear_here_": {
+      "en": "The posts which are directly related to you will appear here.",
+      "mr": "आपल्याशी थेट संबंधित पोस्ट येथे दिसतील.",
+      "hi": "जो पोस्ट आपसे सीधे संबंधित हैं वे यहां दिखाई देंगे।"
+   },
+   "the_student_will_start_getting_reminders_a_few_days_prior_to_the_due_date_mentioned": {
+      "en": "The student will start getting reminders a few days prior to the due date mentioned",
+      "mr": "विद्यार्थ्याला आम्ही काही दिवसा आगोदर आठवण देऊ",
+      "hi": "हम छात्र को कुछ दिन पहले याद दिलाएंगे"
+   },
+   "the_total_amount_of_fees_for_the_student": {
+      "en": "The total amount of fees for the student",
+      "mr": "विद्यार्थ्याची पूर्ण फी",
+      "hi": "पूर्ण छात्र फी"
+   },
+   "there_was_a_problem_connecting_to_the_server_please_try_again": {
+      "en": "There was a problem connecting to the server. Please, try again!",
+      "mr": "सर्व्हरशी कनेक्ट करताना समस्या आली. कृपया पुन्हा प्रयत्न करा!",
+      "hi": "सर्वर से कनेक्ट करने में समस्या थी। कृपया पुन: प्रयास करें!"
+   },
+   "this_field_is_required": {
+      "en": "This field is required",
+      "mr": "हे फील्ड आवश्यक आहे",
+      "hi": "यह फ़ील्ड आवश्यक है"
+   },
+   "this_will_reset_the_app_tutorial": {
+      "en": "This will reset the App Tutorial",
+      "mr": "याने अँप चे ट्युटोरिअल परत दिसेल",
+      "hi": " यह ऐप ट्यूटोरियल रीसेट करेगा"
+   },
+   "thurs": {
+      "en": "Thurs",
+      "mr": "गुरू",
+      "hi": "गुरू"
+   },
+   "thursday": {
+      "en": "Thursday ",
+      "mr": "गुरुवार",
+      "hi": "गुरूवार"
+   },
+   "timetable": {
+      "en": "Timetable",
+      "mr": "वेळापत्रक",
+      "hi": "टाइम टेबल"
+   },
+   "title": {
+      "en": "Title",
+      "mr": "शीर्षक",
+      "hi": "शीर्षक"
+   },
+   "today": {
+      "en": "Today",
+      "mr": "आज",
+      "hi": "आज"
+   },
+   "total_balance": {
+      "en": "Total balance ",
+      "mr": "एकूण बाकी",
+      "hi": "कुळ बाकी"
+   },
+   "total_fee_in_rs_": {
+      "en": "Total Fee. (in Rs)",
+      "mr": "पूर्ण फी",
+      "hi": "पूरी फीस"
+   },
+   "total_fees": {
+      "en": "Total Fees",
+      "mr": "पूर्ण फी",
+      "hi": "पूरी फीज़"
+   },
+   "total_paid": {
+      "en": "Total paid",
+      "mr": "एकून जमा",
+      "hi": "कुल जमा"
+   },
+   "tue": {
+      "en": "Tue",
+      "mr": "मंगळ",
+      "hi": "मंगल"
+   },
+   "tuesday": {
+      "en": "Tuesday ",
+      "mr": "मंगळवार",
+      "hi": "मंगलवार"
+   },
+   "upcoming": {
+      "en": "Upcoming",
+      "mr": "पुढील",
+      "hi": "आगामी"
+   },
+   "upload_an_image": {
+      "en": "Upload an Image (optional)",
+      "mr": "इमिज अपलोड करा (Optional)",
+      "hi": "इमिज अपलोड करें (Optional)"
+   },
+   "venue": {
+      "en": "Venue",
+      "mr": "स्थान",
+      "hi": "स्थान"
+   },
+   "video_lectures": {
+      "en": "Video Lectures",
+      "mr": "विडियो लेक्चर",
+      "hi": "विडियो लेक्चर"
+   },
+   "view_all": {
+      "en": "View all",
+      "mr": "सर्व पहा",
+      "hi": "सभी देखें"
+   },
+   "website": {
+      "en": "Website",
+      "mr": "वेबसाइट",
+      "hi": "वेबसाइट"
+   },
+   "wed": {
+      "en": "Wed",
+      "mr": "बुध",
+      "hi": "बुध"
+   },
+   "wednesday": {
+      "en": "Wednesday",
+      "mr": "बुधवार",
+      "hi": "बुधवार"
+   },
+   "week": {
+      "en": "Week",
+      "mr": "आठवडा",
+      "hi": "सप्ताह"
+   },
+   "welcome_to": {
+      "en": "Welcome to",
+      "mr": "आपले स्वागत आहे",
+      "hi": "आपका स्वागत है"
+   },
+   "welcome_to_admin_panel": {
+      "en": "Welcome to Admin Panel",
+      "mr": "अॅडमिन पॅनल मध्ये आपले स्वागत आहे",
+      "hi": "अॅडमिन पॅनल में आपका स्वागत है।"
+   },
+   "what_do_you_want_to_post": {
+      "en": "What do you want to post?",
+      "mr": "आपण काय पोस्ट करू इच्छिता?",
+      "hi": "आप क्या पोस्ट करना चाहते हैं?"
+   },
+   "what_is_the_holiday_for": {
+      "en": "What is the Holiday for?",
+      "mr": "सुट्टी का आहे?",
+      "hi": "छुट्टी क्यों है?"
+   },
+   "what_would_you_like_to_learn_today": {
+      "en": "What would you \n like to learn \n today",
+      "mr": "तुम्हाला आज \n काय शिकायचय",
+      "hi": "आपको आज \n क्या सिखना है"
+   },
+   "when_does_the_event_start": {
+      "en": "When does the event start?",
+      "mr": "कार्यक्रम कधी सुरु होणार?",
+      "hi": "कार्यक्रम कब शुरू होगा?"
+   },
+   "where_do_you_plan_to_have_the_event": {
+      "en": "Where do you plan to have the event?",
+      "mr": "तुम्हाला हा कार्यक्रम कधी बनवायचा आहे ?",
+      "hi": "आप इस कार्यक्रम की योजना कहां करना सकते हैं?"
+   },
+   "yes": {
+      "en": "Yes",
+      "mr": "हो",
+      "hi": "हां"
+   },
+   "you_can_check_your_profile_details_by_clicking_here_": {
+      "en": "You can check your profile details by clicking here.",
+      "mr": "आपण येथे क्लिक करून आपले प्रोफाइल तपशील तपासू शकता.",
+      "hi": "आप यहां क्लिक करके अपनी प्रोफाइल डिटेल्स चेक कर सकते हैं।"
+   },
+   "your_subject": {
+      "en": "Your Subject",
+      "mr": "आपला विषय",
+      "hi": "आपका विषय"
+   },
+   "your_subjects": {
+      "en": "Your Subjects",
+      "mr": "आपले विषय",
+      "hi": "आपका विषय"
+   },
+   "edit_timetable_item": {
+      "en": "Edit Timetable Item",
+      "mr": "वेळापत्रक संपादित करा",
+      "hi": " समय सारिणी आइटम संपादित करें"
+   },
+   "delete_timetable_item": {
+      "en": "Delete Timetable Item",
+      "mr": "वेळापत्रक हटवा",
+      "hi": "समय सारिणी आइटम हटाएँ"
+   },
+   "use_the_slot_as_a_break_recess": {
+      "en": "Use the slot as a Break/Recess",
+      "mr": "ब्रेक / मध्यम सुट्टी म्हणून स्लॉट वापरा",
+      "hi": "ब्रेक के रूप में स्लॉट का उपयोग करें"
+   },
+   "create_magazine_post": {
+      "en": "Create Magazine Post",
+      "mr": "मासिका पोस्ट तयार करा",
+      "hi": "पत्रिका पोस्ट बनाएँ"
+   },
+   "showcase_the_happening_of_your_institute_": {
+      "en": "Showcase the happening of your Institute!",
+      "mr": "आपल्या संस्थेच्या घटनेचे प्रदर्शन करा!",
+      "hi": "अपने संस्थान का प्रदर्शन दिखाओ!"
+   },
+   "tap_to_change_image": {
+      "en": "Tap to change image",
+      "mr": "प्रतिमा बदलण्यासाठी टॅप करा",
+      "hi": " छवि बदलने के लिए टैप करें"
+   },
+   "magazine_post": {
+      "en": "Magazine Post",
+      "mr": "मासिका पोस्ट",
+      "hi": "पत्रिका पोस्ट "
+   },
+   "edit_holiday": {
+      "en": "Edit Holiday",
+      "mr": "सुट्टी संपादित करा",
+      "hi": "छुट्टी संपादित करें"
+   },
+   "delete_holiday": {
+      "en": "Delete Holiday",
+      "mr": "काढून घ्या",
+      "hi": "छुट्टी हटाएं"
+   },
+   "edit_exam": {
+      "en": "Edit Exam",
+      "mr": "परीक्षा संपादित करा",
+      "hi": "परीक्षा संपादित करें"
+   },
+   "delete_exam": {
+      "en": "Delete Exam",
+      "mr": "परीक्षा हटवा",
+      "hi": "परीक्षा हटाएं"
+   }
+}
